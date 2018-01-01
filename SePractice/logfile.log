@@ -1,0 +1,87 @@
+2017-12-20 23:48:50,676 INFO  [Log] **************************************************************************************** 
+2017-12-20 23:48:50,676 INFO  [Log] **************************************************************************************** 
+2017-12-20 23:48:50,676 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-12-20 23:48:50,676 INFO  [Log] **************************************************************************************** 
+2017-12-20 23:48:50,676 INFO  [Log] **************************************************************************************** 
+2017-12-20 23:48:51,139 INFO  [Log]  Excel sheet opened 
+2017-12-20 23:50:16,839 INFO  [Log] **************************************************************************************** 
+2017-12-20 23:50:16,839 INFO  [Log] **************************************************************************************** 
+2017-12-20 23:50:16,839 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-12-20 23:50:16,839 INFO  [Log] **************************************************************************************** 
+2017-12-20 23:50:16,839 INFO  [Log] **************************************************************************************** 
+2017-12-20 23:50:16,839 INFO  [Log] Vikrant has set system properties 
+2017-12-20 23:50:17,361 INFO  [Log]  Excel sheet opened 
+2017-12-20 23:50:20,610 INFO  [Log] New driver instantiated 
+2017-12-20 23:50:20,642 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-12-20 23:50:21,305 INFO  [Log] Web application launched 
+2017-12-20 23:50:21,316 INFO  [Log] Username picked from Excel is testuser_1 
+2017-12-20 23:50:21,316 INFO  [Log] Password picked from Excel is Test@123 
+2017-12-20 23:50:33,535 INFO  [Log] My Account link element found 
+2017-12-20 23:51:26,375 INFO  [Log] **************************************************************************************** 
+2017-12-20 23:51:26,375 INFO  [Log] **************************************************************************************** 
+2017-12-20 23:51:26,375 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-12-20 23:51:26,375 INFO  [Log] **************************************************************************************** 
+2017-12-20 23:51:26,375 INFO  [Log] **************************************************************************************** 
+2017-12-20 23:51:26,375 INFO  [Log] Vikrant has set system properties 
+2017-12-20 23:51:26,836 INFO  [Log]  Excel sheet opened 
+2017-12-20 23:51:30,242 INFO  [Log] New driver instantiated 
+2017-12-20 23:51:30,275 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-12-20 23:51:39,454 INFO  [Log] Web application launched 
+2017-12-20 23:51:39,467 INFO  [Log] Username picked from Excel is testuser_1 
+2017-12-20 23:51:39,467 INFO  [Log] Password picked from Excel is Test@123 
+2017-12-20 23:51:39,502 INFO  [Log] My Account link element found 
+2017-12-20 23:51:44,220 INFO  [Log] Click action performed on My Account link 
+2017-12-20 23:51:44,254 INFO  [Log] Username text box found 
+2017-12-20 23:51:44,354 INFO  [Log] Username entered in the Username text box 
+2017-12-20 23:51:44,384 INFO  [Log] Password text box found 
+2017-12-20 23:51:44,446 INFO  [Log] Password entered in the Password text box 
+2017-12-20 23:51:44,464 INFO  [Log] Submit button found 
+2017-12-20 23:51:44,542 INFO  [Log] Click action performed on Submit button 
+2017-12-20 23:51:46,037 INFO  [Log] Browser closed 
+2017-12-20 23:51:46,131 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-12-20 23:51:46,131 INFO  [Log] X 
+2017-12-20 23:51:46,131 INFO  [Log] X 
+2017-12-20 23:51:46,131 INFO  [Log] X 
+2017-12-20 23:51:46,131 INFO  [Log] X 
+2017-12-21 01:35:10,137 INFO  [Log] **************************************************************************************** 
+2017-12-21 01:35:10,153 INFO  [Log] **************************************************************************************** 
+2017-12-21 01:35:10,153 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-12-21 01:35:10,153 INFO  [Log] **************************************************************************************** 
+2017-12-21 01:35:10,153 INFO  [Log] **************************************************************************************** 
+2017-12-21 01:35:10,153 INFO  [Log] Vikrant has set system properties 
+2017-12-21 01:35:10,918 INFO  [Log]  Excel sheet opened 
+2017-12-21 01:35:15,062 INFO  [Log] New driver instantiated 
+2017-12-21 01:35:15,093 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-12-21 01:35:23,907 INFO  [Log] Web application launched 
+2017-12-21 01:35:23,951 INFO  [Log] Username picked from Excel is testuser_1 
+2017-12-21 01:35:23,951 INFO  [Log] Password picked from Excel is Test@123 
+2017-12-21 01:35:24,018 INFO  [Log] My Account link element found 
+2017-12-21 01:35:29,983 INFO  [Log] Click action performed on My Account link 
+2017-12-21 01:35:30,023 INFO  [Log] Username text box found 
+2017-12-21 01:35:30,135 INFO  [Log] Username entered in the Username text box 
+2017-12-21 01:35:30,160 INFO  [Log] Password text box found 
+2017-12-21 01:35:30,244 INFO  [Log] Password entered in the Password text box 
+2017-12-21 01:35:30,272 INFO  [Log] Submit button found 
+2017-12-21 01:35:30,344 INFO  [Log] Click action performed on Submit button 
+2017-12-21 01:35:31,944 INFO  [Log] Browser closed 
+2017-12-21 01:35:32,152 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-12-21 01:35:32,152 INFO  [Log] X 
+2017-12-21 01:35:32,152 INFO  [Log] X 
+2017-12-21 01:35:32,152 INFO  [Log] X 
+2017-12-21 01:35:32,152 INFO  [Log] X 
+2017-12-21 16:00:21,889 INFO  [Log] **************************************************************************************** 
+2017-12-21 16:00:21,889 INFO  [Log] **************************************************************************************** 
+2017-12-21 16:00:21,889 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 UDF_TC       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-12-21 16:00:21,889 INFO  [Log] **************************************************************************************** 
+2017-12-21 16:00:21,889 INFO  [Log] **************************************************************************************** 
+2017-12-21 16:00:22,554 INFO  [Log] Vikrant has set system properties 
+2017-12-21 16:00:22,569 INFO  [Log] Username picked from Excel is testuser_1 
+2017-12-21 16:00:22,569 INFO  [Log] Password picked from Excel is Test@123 
+2017-12-21 17:32:40,333 INFO  [Log] **************************************************************************************** 
+2017-12-21 17:32:40,333 INFO  [Log] **************************************************************************************** 
+2017-12-21 17:32:40,333 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 UDF_TC       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-12-21 17:32:40,333 INFO  [Log] **************************************************************************************** 
+2017-12-21 17:32:40,333 INFO  [Log] **************************************************************************************** 
+2017-12-21 17:32:40,746 INFO  [Log] Vikrant has set system properties 
+2017-12-21 17:32:40,762 INFO  [Log] Username picked from Excel is testuser_1 
+2017-12-21 17:32:40,762 INFO  [Log] Password picked from Excel is Test@123 
